@@ -17,6 +17,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 # Mock-up
-![Project picture](https://github.com/DariaBatiuk/Bootcamp-Challenges/Challenge1/assets/images/Project_picture.jpg)
+![image](https://user-images.githubusercontent.com/83068010/199792171-c27e11fb-3049-486e-8940-51e58e673002.png)
+![image](https://user-images.githubusercontent.com/83068010/199792327-2b0bd473-8775-4a1b-8290-ad064247b945.png)
+![image](https://user-images.githubusercontent.com/83068010/199792397-e3df4e4c-a325-4233-be34-cdacfea4071b.png)
 
-Use this link for the web site: (http://127.0.0.1:5500/index.html)
+
+Use this link for the web site: https://github.com/DariaBatiuk/Horiseon_landing_page/settings/pages
