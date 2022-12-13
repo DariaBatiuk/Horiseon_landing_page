@@ -22,4 +22,4 @@ THEN I find a concise, descriptive title
 ![image](https://user-images.githubusercontent.com/83068010/199792397-e3df4e4c-a325-4233-be34-cdacfea4071b.png)
 
 
-Use this link for the web site: https://github.com/DariaBatiuk/Horiseon_landing_page/settings/pages
+Use this link for the web site: https://dariabatiuk.github.io/Horiseon_landing_page/
